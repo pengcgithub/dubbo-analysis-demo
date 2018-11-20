@@ -5,6 +5,7 @@
 ## 结构
 - analysis-parent：父类项目
 - analysis-zk：zookeeper的连接、创建、订阅
+- analysis-schema：spring自定义schema配置
 
 ## 参考资料
 - 深入解剖dubbo源码
